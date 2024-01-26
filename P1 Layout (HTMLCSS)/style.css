@@ -1,0 +1,60 @@
+h1 {
+    color: grey;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+h2 {
+    color: orange;
+    font-family: Mistral;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+img {
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#top-logo{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.container {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.container img {
+    padding:10px;
+    width: 130px;
+    border-radius:25px;
+}
+
+.price {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 165px 55px;
+}
+
+p {
+    margin-top: 1px;
+    margin-bottom: 0rem;
+}
+
+button{
+    background-color: lightgray;
+}
+
+#describe {
+    font-weight: lighter;
+}
